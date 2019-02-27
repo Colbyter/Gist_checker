@@ -1,0 +1,3 @@
+requests==2.21.0
+click==7.0
+pickleDB==0.8.1
